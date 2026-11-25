@@ -1,0 +1,13 @@
+﻿ID,Accession,HGVS_c,HGVS_p,Frame,Expected_Protein_Length
+HBB_WT,NM_000518.5,,,,147
+HBB_c.126_129del,NM_000518.5,c.126_129del,p.Phe42Leufs*19,frameshift,59
+CFTR_WT,NM_000492.4,,,,1480
+CFTR_c.1521_1523del,NM_000492.4,c.1521_1523del,p.Phe508del,in-frame,1479
+BRCA1_WT,NM_007294.4,,,,1863
+BRCA1_c.68_69del,NM_007294.4,c.68_69del,p.Glu23Valfs*17,frameshift,38
+BRCA2_WT,NM_000059.4,,,,3418
+BRCA2_c.5946del,NM_000059.4,c.5946del,p.Ser1982Argfs*22,frameshift,2002
+HEXA_WT,NM_000520.6,,,,529
+HEXA_c.1274_1277dup,NM_000520.6,c.1274_1277dup,p.Tyr427Ilefs*5,frameshift,430
+CCR5_WT,NM_000579.4,,,,352
+CCR5_c.554_585del,NM_000579.4,c.554_585del,p.Ser185Ilefs*32,frameshift,215

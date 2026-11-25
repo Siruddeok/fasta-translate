@@ -1,0 +1,388 @@
+LOCUS       NM_000579               3661 bp    mRNA    linear   PRI 17-JUN-2026
+DEFINITION  Homo sapiens C-C motif chemokine receptor 5 (CCR5), transcript
+            variant A, mRNA.
+ACCESSION   NM_000579 NM_001105536 XM_001125981 XM_005264854
+VERSION     NM_000579.4
+KEYWORDS    RefSeq.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 3661)
+  AUTHORS   Deng,H., Xue,P., Zhou,X., Wang,Y. and Liu,W.
+  TITLE     CCL4/CCR5 regulates chondrocyte biology and OA progression
+  JOURNAL   Cytokine 183, 156746 (2024)
+   PUBMED   39236430
+  REMARK    GeneRIF: CCL4/CCR5 regulates chondrocyte biology and OA
+            progression.
+REFERENCE   2  (bases 1 to 3661)
+  AUTHORS   Guigues,A., Gimenez,S., Mettling,C., Maurel,D., Doumazane,E.,
+            Prezeau,L., Francois,V. and Corbeau,P.
+  TITLE     The EBI2 receptor is coexpressed with CCR5 in CD4 + T cells and
+            boosts HIV-1 R5 replication
+  JOURNAL   AIDS 38 (10), 1449-1459 (2024)
+   PUBMED   38770825
+  REMARK    GeneRIF: The EBI2 receptor is coexpressed with CCR5 in CD4 + T
+            cells and boosts HIV-1 R5 replication.
+REFERENCE   3  (bases 1 to 3661)
+  AUTHORS   Schlechter,B.L. and Stebbing,J.
+  TITLE     CCR5 and CCL5 in metastatic colorectal cancer
+  JOURNAL   J Immunother Cancer 12 (5), e008722 (2024)
+   PUBMED   38719543
+  REMARK    GeneRIF: CCR5 and CCL5 in metastatic colorectal cancer.
+REFERENCE   4  (bases 1 to 3661)
+  AUTHORS   Wang,L., Yukselten,Y., Nuwagaba,J. and Sutton,R.E.
+  TITLE     JAK/STAT signaling pathway affects CCR5 expression in human CD4+ T
+            cells
+  JOURNAL   Sci Adv 10 (12), eadl0368 (2024)
+   PUBMED   38507500
+  REMARK    GeneRIF: JAK/STAT signaling pathway affects CCR5 expression in
+            human CD4[+] T cells.
+REFERENCE   5  (bases 1 to 3661)
+  AUTHORS   Zhou,T.B., Jiang,Z.P., Zhou,J.F. and Su,N.
+  TITLE     Relationship between chemokine receptor 5 Delta32/W gene
+            polymorphism and lupus nephritis
+  JOURNAL   Hum Immunol 75 (9), 968-972 (2014)
+   PUBMED   25167769
+  REMARK    GeneRIF: Studies indicate that chemokine receptor 5 Delta32/W gene
+            polymorphism was not associated with lupus nephritis (LN) risk and
+            might be no a significant genetic molecular marker to predict the
+            systemic lupus erythematosus (SLE) patients developing into LN.
+REFERENCE   6  (bases 1 to 3661)
+  AUTHORS   Ahad,M.A., Missotten,T., Abdallah,A., Lympany,P.A. and Lightman,S.
+  TITLE     Polymorphisms of chemokine and chemokine receptor genes in
+            idiopathic immune-mediated posterior segment uveitis
+  JOURNAL   Mol Vis 13, 388-396 (2007)
+   PUBMED   17417600
+  REMARK    GeneRIF: Observational study of gene-disease association. (HuGE
+            Navigator)
+REFERENCE   7  (bases 1 to 3661)
+  AUTHORS   Madsen,H.O., Poulsen,K., Dahl,O., Clark,B.F. and Hjorth,J.P.
+  TITLE     Retropseudogenes constitute the major part of the human elongation
+            factor 1 alpha gene family
+  JOURNAL   Nucleic Acids Res 18 (6), 1513-1516 (1990)
+   PUBMED   2183196
+REFERENCE   8  (bases 1 to 3661)
+  AUTHORS   Whiteheart,S.W., Shenbagamurthi,P., Chen,L., Cotter,R.J. and
+            Hart,G.W.
+  TITLE     Murine elongation factor 1 alpha (EF-1 alpha) is
+            posttranslationally modified by novel amide-linked
+            ethanolamine-phosphoglycerol moieties. Addition of
+            ethanolamine-phosphoglycerol to specific glutamic acid residues on
+            EF-1 alpha
+  JOURNAL   J Biol Chem 264 (24), 14334-14341 (1989)
+   PUBMED   2569467
+REFERENCE   9  (bases 1 to 3661)
+  AUTHORS   Uetsuki,T., Naito,A., Nagata,S. and Kaziro,Y.
+  TITLE     Isolation and characterization of the human chromosomal gene for
+            polypeptide chain elongation factor-1 alpha
+  JOURNAL   J Biol Chem 264 (10), 5791-5798 (1989)
+   PUBMED   2564392
+REFERENCE   10 (bases 1 to 3661)
+  AUTHORS   Itoh,H., Toyama,R., Kozasa,T., Tsukamoto,T., Matsuoka,M. and
+            Kaziro,Y.
+  TITLE     Presence of three distinct molecular species of Gi protein alpha
+            subunit. Structure of rat cDNAs and human genomic DNAs
+  JOURNAL   J Biol Chem 263 (14), 6656-6664 (1988)
+   PUBMED   2834384
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from AC098613.2, DA818906.1,
+            U54994.1 and BC038398.1.
+            
+            On Aug 13, 2020 this sequence version replaced NM_000579.3.
+            
+            Summary: This gene encodes a member of the beta chemokine receptor
+            family, which is predicted to be a seven transmembrane protein
+            similar to G protein-coupled receptors. This protein is expressed
+            by T cells and macrophages, and is known to be an important
+            co-receptor for macrophage-tropic virus, including HIV, to enter
+            host cells. Defective alleles of this gene have been associated
+            with the HIV infection resistance. The ligands of this receptor
+            include monocyte chemoattractant protein 2 (MCP-2), macrophage
+            inflammatory protein 1 alpha (MIP-1 alpha), macrophage inflammatory
+            protein 1 beta (MIP-1 beta) and regulated on activation normal T
+            expressed and secreted protein (RANTES). Expression of this gene
+            was also detected in a promyeloblastic cell line, suggesting that
+            this protein may play a role in granulocyte lineage proliferation
+            and differentiation. This gene is located at the chemokine receptor
+            gene cluster region. An allelic polymorphism in this gene results
+            in both functional and non-functional alleles; the reference genome
+            represents the functional allele. Two transcript variants encoding
+            the same protein have been found for this gene. [provided by
+            RefSeq, Jul 2015].
+            
+            Transcript Variant: This variant (A) represents the longer
+            transcript. Both variants encode the same protein.
+            
+            Sequence Note: This RefSeq record was created from transcript and
+            genomic sequence data because no single transcript was available
+            for the full length of the gene. The extent of this transcript is
+            supported by published experimental evidence.
+            
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            
+            ##Evidence-Data-START##
+            CDS exon combination :: U54994.1, BC038398.1 [ECO:0000331]
+            RNAseq introns       :: mixed sample support SAMEA1965299,
+                                    SAMEA1966682 [ECO:0006172]
+            ##Evidence-Data-END##
+            
+            ##RefSeq-Attributes-START##
+            polymorphic pseudogene :: PMID: 17417600
+            ##RefSeq-Attributes-END##
+            COMPLETENESS: complete on the 3' end.
+PRIMARY     REFSEQ_SPAN         PRIMARY_IDENTIFIER PRIMARY_SPAN        COMP
+            1-57                AC098613.2         26671-26727
+            58-211              AC098613.2         27229-27382
+            212-767             DA818906.1         1-556
+            768-2433            U54994.1           465-2130
+            2434-3134           BC038398.1         2120-2820
+            3135-3275           U54994.1           2832-2972
+            3276-3661           BC038398.1         2962-3347
+FEATURES             Location/Qualifiers
+     source          1..3661
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="3"
+                     /map="3p21.31"
+     gene            1..3661
+                     /gene="CCR5"
+                     /gene_synonym="CC-CKR-5; CCCKR5; CCR-5; CD195; CKR-5;
+                     CKR5; CMKBR5; IDDM22"
+                     /note="C-C motif chemokine receptor 5"
+                     /db_xref="GeneID:1234"
+                     /db_xref="HGNC:HGNC:1606"
+                     /db_xref="MIM:601373"
+     exon            1..57
+                     /gene="CCR5"
+                     /gene_synonym="CC-CKR-5; CCCKR5; CCR-5; CD195; CKR-5;
+                     CKR5; CMKBR5; IDDM22"
+                     /inference="alignment:Splign:2.1.0"
+     exon            58..346
+                     /gene="CCR5"
+                     /gene_synonym="CC-CKR-5; CCCKR5; CCR-5; CD195; CKR-5;
+                     CKR5; CMKBR5; IDDM22"
+                     /inference="alignment:Splign:2.1.0"
+     misc_feature    277..279
+                     /gene="CCR5"
+                     /gene_synonym="CC-CKR-5; CCCKR5; CCR-5; CD195; CKR-5;
+                     CKR5; CMKBR5; IDDM22"
+                     /note="upstream in-frame stop codon"
+     exon            347..3661
+                     /gene="CCR5"
+                     /gene_synonym="CC-CKR-5; CCCKR5; CCR-5; CD195; CKR-5;
+                     CKR5; CMKBR5; IDDM22"
+                     /inference="alignment:Splign:2.1.0"
+     CDS             358..1416
+                     /gene="CCR5"
+                     /gene_synonym="CC-CKR-5; CCCKR5; CCR-5; CD195; CKR-5;
+                     CKR5; CMKBR5; IDDM22"
+                     /note="chemr13; C-C motif chemokine receptor 5 A159A;
+                     chemokine receptor CCR5; HIV-1 fusion coreceptor;
+                     chemokine (C-C motif) receptor 5; chemokine recptor CCR5
+                     Delta32; mutant C-C motif chemokine receptor"
+                     /codon_start=1
+                     /product="C-C chemokine receptor type 5"
+                     /protein_id="NP_000570.1"
+                     /db_xref="CCDS:CCDS2739.1"
+                     /db_xref="GeneID:1234"
+                     /db_xref="HGNC:HGNC:1606"
+                     /db_xref="MIM:601373"
+                     /translation="MDYQVSSPIYDINYYTSEPCQKINVKQIAARLLPPLYSLVFIFG
+                     FVGNMLVILILINCKRLKSMTDIYLLNLAISDLFFLLTVPFWAHYAAAQWDFGNTMCQ
+                     LLTGLYFIGFFSGIFFIILLTIDRYLAVVHAVFALKARTVTFGVVTSVITWVVAVFAS
+                     LPGIIFTRSQKEGLHYTCSSHFPYSQYQFWKNFQTLKIVILGLVLPLLVMVICYSGIL
+                     KTLLRCRNEKKRHRAVRLIFTIMIVYFLFWAPYNIVLLLNTFQEFFGLNNCSSSNRLD
+                     QAMQVTETLGMTHCCINPIIYAFVGEKFRNYLLVFFQKHIAKRFCKCCSIFQQEAPER
+                     ASSVYTRSTGEQEISVGL"
+     misc_feature    364..366
+                     /gene="CCR5"
+                     /gene_synonym="CC-CKR-5; CCCKR5; CCR-5; CD195; CKR-5;
+                     CKR5; CMKBR5; IDDM22"
+                     /note="Sulfotyrosine.
+                     /evidence=ECO:0000269|PubMed:10089882; propagated from
+                     UniProtKB/Swiss-Prot (P51681.1); sulfatation site"
+     misc_feature    373..375
+                     /gene="CCR5"
+                     /gene_synonym="CC-CKR-5; CCCKR5; CCR-5; CD195; CKR-5;
+                     CKR5; CMKBR5; IDDM22"
+                     /note="O-linked (GalNAc...) serine.
+                     /evidence=ECO:0000269|PubMed:11733580; propagated from
+                     UniProtKB/Swiss-Prot (P51681.1); glycosylation site"
+     misc_feature    376..378
+                     /gene="CCR5"
+                     /gene_synonym="CC-CKR-5; CCCKR5; CCR-5; CD195; CKR-5;
+                     CKR5; CMKBR5; IDDM22"
+                     /note="O-linked (GalNAc...) serine.
+                     /evidence=ECO:0000269|PubMed:11733580; propagated from
+                     UniProtKB/Swiss-Prot (P51681.1); glycosylation site"
+     misc_feature    385..387
+                     /gene="CCR5"
+                     /gene_synonym="CC-CKR-5; CCCKR5; CCR-5; CD195; CKR-5;
+                     CKR5; CMKBR5; IDDM22"
+                     /note="Sulfotyrosine.
+                     /evidence=ECO:0000269|PubMed:21763489; propagated from
+                     UniProtKB/Swiss-Prot (P51681.1); sulfatation site"
+     misc_feature    397..399
+                     /gene="CCR5"
+                     /gene_synonym="CC-CKR-5; CCCKR5; CCR-5; CD195; CKR-5;
+                     CKR5; CMKBR5; IDDM22"
+                     /note="Sulfotyrosine.
+                     /evidence=ECO:0000269|PubMed:21763489; propagated from
+                     UniProtKB/Swiss-Prot (P51681.1); sulfatation site"
+     misc_feature    400..402
+                     /gene="CCR5"
+                     /gene_synonym="CC-CKR-5; CCCKR5; CCR-5; CD195; CKR-5;
+                     CKR5; CMKBR5; IDDM22"
+                     /note="Sulfotyrosine. /evidence=ECO:0000255; propagated
+                     from UniProtKB/Swiss-Prot (P51681.1); sulfatation site"
+     misc_feature    448..531
+                     /gene="CCR5"
+                     /gene_synonym="CC-CKR-5; CCCKR5; CCR-5; CD195; CKR-5;
+                     CKR5; CMKBR5; IDDM22"
+                     /note="propagated from UniProtKB/Swiss-Prot (P51681.1);
+                     transmembrane region"
+     misc_feature    562..624
+                     /gene="CCR5"
+                     /gene_synonym="CC-CKR-5; CCCKR5; CCR-5; CD195; CKR-5;
+                     CKR5; CMKBR5; IDDM22"
+                     /note="propagated from UniProtKB/Swiss-Prot (P51681.1);
+                     transmembrane region"
+     misc_feature    664..729
+                     /gene="CCR5"
+                     /gene_synonym="CC-CKR-5; CCCKR5; CCR-5; CD195; CKR-5;
+                     CKR5; CMKBR5; IDDM22"
+                     /note="propagated from UniProtKB/Swiss-Prot (P51681.1);
+                     transmembrane region"
+     misc_feature    781..855
+                     /gene="CCR5"
+                     /gene_synonym="CC-CKR-5; CCCKR5; CCR-5; CD195; CKR-5;
+                     CKR5; CMKBR5; IDDM22"
+                     /note="propagated from UniProtKB/Swiss-Prot (P51681.1);
+                     transmembrane region"
+     misc_feature    952..1011
+                     /gene="CCR5"
+                     /gene_synonym="CC-CKR-5; CCCKR5; CCR-5; CD195; CKR-5;
+                     CKR5; CMKBR5; IDDM22"
+                     /note="propagated from UniProtKB/Swiss-Prot (P51681.1);
+                     transmembrane region"
+     misc_feature    1063..1137
+                     /gene="CCR5"
+                     /gene_synonym="CC-CKR-5; CCCKR5; CCR-5; CD195; CKR-5;
+                     CKR5; CMKBR5; IDDM22"
+                     /note="propagated from UniProtKB/Swiss-Prot (P51681.1);
+                     transmembrane region"
+     misc_feature    1189..1260
+                     /gene="CCR5"
+                     /gene_synonym="CC-CKR-5; CCCKR5; CCR-5; CD195; CKR-5;
+                     CKR5; CMKBR5; IDDM22"
+                     /note="propagated from UniProtKB/Swiss-Prot (P51681.1);
+                     transmembrane region"
+     misc_feature    1363..1365
+                     /gene="CCR5"
+                     /gene_synonym="CC-CKR-5; CCCKR5; CCR-5; CD195; CKR-5;
+                     CKR5; CMKBR5; IDDM22"
+                     /note="Phosphoserine, by GRK2.
+                     /evidence=ECO:0000269|PubMed:10085131; propagated from
+                     UniProtKB/Swiss-Prot (P51681.1); phosphorylation site"
+     misc_feature    1366..1368
+                     /gene="CCR5"
+                     /gene_synonym="CC-CKR-5; CCCKR5; CCR-5; CD195; CKR-5;
+                     CKR5; CMKBR5; IDDM22"
+                     /note="Phosphoserine, by GRK2.
+                     /evidence=ECO:0000269|PubMed:10085131; propagated from
+                     UniProtKB/Swiss-Prot (P51681.1); phosphorylation site"
+     misc_feature    1381..1383
+                     /gene="CCR5"
+                     /gene_synonym="CC-CKR-5; CCCKR5; CCR-5; CD195; CKR-5;
+                     CKR5; CMKBR5; IDDM22"
+                     /note="Phosphoserine, by GRK2.
+                     /evidence=ECO:0000269|PubMed:10085131; propagated from
+                     UniProtKB/Swiss-Prot (P51681.1); phosphorylation site"
+     misc_feature    1402..1404
+                     /gene="CCR5"
+                     /gene_synonym="CC-CKR-5; CCCKR5; CCR-5; CD195; CKR-5;
+                     CKR5; CMKBR5; IDDM22"
+                     /note="Phosphoserine, by GRK2.
+                     /evidence=ECO:0000269|PubMed:10085131; propagated from
+                     UniProtKB/Swiss-Prot (P51681.1); phosphorylation site"
+     regulatory      3638..3643
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="CCR5"
+                     /gene_synonym="CC-CKR-5; CCCKR5; CCR-5; CD195; CKR-5;
+                     CKR5; CMKBR5; IDDM22"
+                     /note="hexamer: AATAAA"
+     polyA_site      3661
+                     /gene="CCR5"
+                     /gene_synonym="CC-CKR-5; CCCKR5; CCR-5; CD195; CKR-5;
+                     CKR5; CMKBR5; IDDM22"
+                     /note="major polyA site"
+ORIGIN      
+        1 cttcagatag attatatctg gagtgaagaa tcctgccacc tatgtatctg gcatagtatt
+       61 ctgtgtagtg ggatgagcag agaacaaaaa caaaataatc cagtgagaaa agcccgtaaa
+      121 taaaccttca gaccagagat ctattctcta gcttatttta agctcaactt aaaaagaaga
+      181 actgttctct gattcttttc gccttcaata cacttaatga tttaactcca ccctccttca
+      241 aaagaaacag catttcctac ttttatactg tctatatgat tgatttgcac agctcatctg
+      301 gccagaagag ctgagacatc cgttccccta caagaaactc tccccgggtg gaacaagatg
+      361 gattatcaag tgtcaagtcc aatctatgac atcaattatt atacatcgga gccctgccaa
+      421 aaaatcaatg tgaagcaaat cgcagcccgc ctcctgcctc cgctctactc actggtgttc
+      481 atctttggtt ttgtgggcaa catgctggtc atcctcatcc tgataaactg caaaaggctg
+      541 aagagcatga ctgacatcta cctgctcaac ctggccatct ctgacctgtt tttccttctt
+      601 actgtcccct tctgggctca ctatgctgcc gcccagtggg actttggaaa tacaatgtgt
+      661 caactcttga cagggctcta ttttataggc ttcttctctg gaatcttctt catcatcctc
+      721 ctgacaatcg ataggtacct ggctgtcgtc catgctgtgt ttgctttaaa agccaggacg
+      781 gtcacctttg gggtggtgac aagtgtgatc acttgggtgg tggctgtgtt tgcgtctctc
+      841 ccaggaatca tctttaccag atctcaaaaa gaaggtcttc attacacctg cagctctcat
+      901 tttccataca gtcagtatca attctggaag aatttccaga cattaaagat agtcatcttg
+      961 gggctggtcc tgccgctgct tgtcatggtc atctgctact cgggaatcct aaaaactctg
+     1021 cttcggtgtc gaaatgagaa gaagaggcac agggctgtga ggcttatctt caccatcatg
+     1081 attgtttatt ttctcttctg ggctccctac aacattgtcc ttctcctgaa caccttccag
+     1141 gaattctttg gcctgaataa ttgcagtagc tctaacaggt tggaccaagc tatgcaggtg
+     1201 acagagactc ttgggatgac gcactgctgc atcaacccca tcatctatgc ctttgtcggg
+     1261 gagaagttca gaaactacct cttagtcttc ttccaaaagc acattgccaa acgcttctgc
+     1321 aaatgctgtt ctattttcca gcaagaggct cccgagcgag caagctcagt ttacacccga
+     1381 tccactgggg agcaggaaat atctgtgggc ttgtgacacg gactcaagtg ggctggtgac
+     1441 ccagtcagag ttgtgcacat ggcttagttt tcatacacag cctgggctgg gggtggggtg
+     1501 ggagaggtct tttttaaaag gaagttactg ttatagaggg tctaagattc atccatttat
+     1561 ttggcatctg tttaaagtag attagatctt ttaagcccat caattataga aagccaaatc
+     1621 aaaatatgtt gatgaaaaat agcaaccttt ttatctcccc ttcacatgca tcaagttatt
+     1681 gacaaactct cccttcactc cgaaagttcc ttatgtatat ttaaaagaaa gcctcagaga
+     1741 attgctgatt cttgagttta gtgatctgaa cagaaatacc aaaattattt cagaaatgta
+     1801 caacttttta cctagtacaa ggcaacatat aggttgtaaa tgtgtttaaa acaggtcttt
+     1861 gtcttgctat ggggagaaaa gacatgaata tgattagtaa agaaatgaca cttttcatgt
+     1921 gtgatttccc ctccaaggta tggttaataa gtttcactga cttagaacca ggcgagagac
+     1981 ttgtggcctg ggagagctgg ggaagcttct taaatgagaa ggaatttgag ttggatcatc
+     2041 tattgctggc aaagacagaa gcctcactgc aagcactgca tgggcaagct tggctgtaga
+     2101 aggagacaga gctggttggg aagacatggg gaggaaggac aaggctagat catgaagaac
+     2161 cttgacggca ttgctccgtc taagtcatga gctgagcagg gagatcctgg ttggtgttgc
+     2221 agaaggttta ctctgtggcc aaaggagggt caggaaggat gagcatttag ggcaaggaga
+     2281 ccaccaacag ccctcaggtc agggtgagga tggcctctgc taagctcaag gcgtgaggat
+     2341 gggaaggagg gaggtattcg taaggatggg aaggagggag gtattcgtgc agcatatgag
+     2401 gatgcagagt cagcagaact ggggtggatt tgggttggaa gtgagggtca gagaggagtc
+     2461 agagagaatc cctagtcttc aagcagattg gagaaaccct tgaaaagaca tcaagcacag
+     2521 aaggaggagg aggaggttta ggtcaagaag aagatggatt ggtgtaaaag gatgggtctg
+     2581 gtttgcagag cttgaacaca gtctcaccca gactccaggc tgtctttcac tgaatgcttc
+     2641 tgacttcata gatttccttc ccatcccagc tgaaatactg aggggtctcc aggaggagac
+     2701 tagatttatg aatacacgag gtatgaggtc taggaacata cttcagctca cacatgagat
+     2761 ctaggtgagg attgattacc tagtagtcat ttcatgggtt gttgggagga ttctatgagg
+     2821 caaccacagg cagcatttag cacatactac acattcaata agcatcaaac tcttagttac
+     2881 tcattcaggg atagcactga gcaaagcatt gagcaaaggg gtcccataga ggtgagggaa
+     2941 gcctgaaaaa ctaagatgct gcctgcccag tgcacacaag tgtaggtatc attttctgca
+     3001 tttaaccgtc aataggcaaa ggggggaagg gacatattca tttggaaata agctgccttg
+     3061 agccttaaaa cccacaaaag tacaatttac cagcctccgt atttcagact gaatgggggt
+     3121 ggggggggcg ccttaggtac ttattccaga tgccttctcc agacaaacca gaagcaacag
+     3181 aaaaaatcgt ctctccctcc ctttgaaatg aatatacccc ttagtgtttg ggtatattca
+     3241 tttcaaaggg agagagagag gtttttttct gttctgtctc atatgattgt gcacatactt
+     3301 gagactgttt tgaatttggg ggatggctaa aaccatcata gtacaggtaa ggtgagggaa
+     3361 tagtaagtgg tgagaactac tcagggaatg aaggtgtcag aataataaga ggtgctactg
+     3421 actttctcag cctctgaata tgaacggtga gcattgtggc tgtcagcagg aagcaacgaa
+     3481 gggaaatgtc tttccttttg ctcttaagtt gtggagagtg caacagtagc ataggaccct
+     3541 accctctggg ccaagtcaaa gacattctga catcttagta tttgcatatt cttatgtatg
+     3601 tgaaagttac aaattgcttg aaagaaaata tgcatctaat aaaaaacacc ttctaaaata
+     3661 a
+//
+

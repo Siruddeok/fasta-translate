@@ -1,0 +1,8 @@
+﻿ID,Description,Seq_Type,Length,GC_Content,Start_Pos,End_Pos,Is_Valid,Errors,Warnings,Protein_Full,Protein_To_Stop,Protein_Length
+seq1,seq1 정상 CDS,DNA,39,0.5641,1,39,True,,중간 종결 코돈 위치(nt): 22,MAIVMGR*KGAR*,MAIVMGR,7
+seq2,seq2 RNA 서열,RNA,24,0.5417,1,24,True,,,MAIVMGR*,MAIVMGR,7
+seq3,"seq3 개시 코돈 없음, 길이 3의 배수 아님",DNA,22,0.5455,1,22,True,,길이가 3의 배수가 아님 (끝 1염기 버림); 개시 코돈(ATG/CTG/TTG) 없음,AIVMGR*,AIVMGR,6
+seq4,seq4 허용되지 않은 문자,DNA,13,0.2727,,,False,허용되지 않은 문자: BX,,,,0
+seq5,seq5 T와 U 혼재,MIXED,9,0.1111,,,False,T와 U가 함께 존재,,,,0
+seq6,seq6 모호 염기와 갭,DNA,14,0.4444,1,12,True,,갭 문자 제거됨 (좌표는 갭 제거 후 기준); 모호 염기 N 3개 (X로 번역됨),MXA*,MXA,3
+seq1,seq1 중복 ID,DNA,9,0.2222,1,9,True,,중복 ID,MK*,MK,2
